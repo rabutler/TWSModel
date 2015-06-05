@@ -1,0 +1,12 @@
+# Monthly values:
+Powell.Pool Elevation: file = $CRSS_DIR/results/KeySlots.rdf 
+Mead.Pool Elevation: file = $CRSS_DIR/results/KeySlots.rdf 
+
+
+# Could be useful...not seperated by annual vs. monthly
+PowellOperation.Compact Point Volume: file = $CRSS_DIR/results/KeySlots.rdf
+PowellOperation.10 Year Compact Volume: file = $CRSS_DIR/results/KeySlots.rdf
+PowellOperation.PowellWYRelease: file = $CRSS_DIR/results/KeySlots.rdf
+PowellOperation.Powell10YearWYRelease: file = $CRSS_DIR/results/KeySlots.rdf
+Shortage.ShortageFlag: file = $CRSS_DIR/results/KeySlots.rdf
+Surplus.SurplusFlag: file = $CRSS_DIR/results/KeySlots.rdf

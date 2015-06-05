@@ -1,0 +1,73 @@
+DoloresRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize
+DoloresRiver.Inflow Salt Concentration:  file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize
+DuchesneAboveStarv.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+DuchesneAboveStarv.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+GreenRAboveFontenelle.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+GreenRAboveFontenelle.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize
+SanRafaelRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+SanRafaelRiver.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+SJAboveNavajo.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+SJAboveNavajo.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+UpperColoradoReach.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+UpperColoradoReach.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+VirginRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+VirginRiver.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+WhiteRiverAboveWatson.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+WhiteRiverAboveWatson.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+YampaRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+YampaRiver.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+AboveImperialDamColoradoR:GainsOnColoRAboveImperialDam.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+AboveImperialDamColoradoR:GainsOnColoRAboveImperialDam.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+CoRivMeadToMohave:GainsAboveDavis.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+CoRivMeadToMohave:GainsAboveDavis.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+CoRivMohaveToHavasu:BillWilliamsRiver.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+CoRivMohaveToHavasu:BillWilliamsRiver.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+CoRivMohaveToHavasu:GainsAboveParker.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+CoRivMohaveToHavasu:GainsAboveParker.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+CoRivLittleCOToVirgin:GainsAboveGC.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+CoRivLittleCOToVirgin:GainsAboveGC.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+LittleColoradoRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+LittleColoradoRiver.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+PariaRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+PariaRiver.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+CoRivVirginToMead:GainsAboveHoover.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+CoRivVirginToMead:GainsAboveHoover.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+GreenRAboveFlamingGorge:GainsAboveGreendale.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+GreenRAboveFlamingGorge:GainsAboveGreendale.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+GreenRAboveGreenRiverWY:GainsAboveGRWY.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+GreenRAboveGreenRiverWY:GainsAboveGRWY.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+GreenRWhiteToSanRafael:GainsAboveGreenRiverUT.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+GreenRWhiteToSanRafael:GainsAboveGreenRiverUT.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+GunnisonRiverAboveCrystal:GainsAboveCrystal.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+GunnisonRiverAboveCrystal:GainsAboveCrystal.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+GunnisonRiverAboveGrandJunction:GainsGunnisonRiverAbvGrandJunction.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+GunnisonRiverAboveGrandJunction:GainsGunnisonRiverAbvGrandJunction.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+SanJuanPowell:GainsAboveLeesFerry.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+SanJuanPowell:GainsAboveLeesFerry.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+SanJuanTributaries.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+SanJuanTributaries.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+TaylorAboveBlueMesa:GainsAboveBlueMesa.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+TaylorAboveBlueMesa:GainsAboveBlueMesa.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+UpperColoradoAboveCameo:GainsAboveCameo.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+UpperColoradoAboveCameo:GainsAboveCameo.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+UpperColoradoCameoToGunnison:GainsAboveCisco.Local Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+UpperColoradoCameoToGunnison:GainsAboveCisco.Local Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+LittleSnakeRiver.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+LittleSnakeRiver.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+TaylorPark.Inflow: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=acre-feet/month scale=1.0 import=resize 
+TaylorPark.Inflow Salt Concentration: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s units=mg/l scale=1.0 import=resize 
+Evap.BlueMesaCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.CrystalCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.FlamingGorgeCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.FontenelleCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.HavasuCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.MeadCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.MohaveCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.MorrowPointCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Evap.NavajoCoef: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=NONE scale=1.0 import=resize
+Powell.Average Air Temperature: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=F scale=1.0 import=resize
+Powell.Average Precipitation: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=in/month scale=1.0 import=resize
+Powell.Gross Evaporation Coefficient: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=in/month scale=1.0 import=resize
+Powell.River Evaporation Coefficient: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=in/month scale=1.0 import=resize
+Powell.Streamside Coefficient: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=in/month-F scale=1.0 import=resize
+Powell.Terrace Coefficient: file=$(CRSS_DIR)/dmi/DPNFSinput/trace1/%o.%s  units=in/month-F scale=1.0 import=resize

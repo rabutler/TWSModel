@@ -1,0 +1,14 @@
+Powell.Pool Elevation: file=$CRSS_DIR/results/KeySlots.rdf
+Mead.Pool Elevation: file=$CRSS_DIR/results/KeySlots.rdf
+PowellOperation.PowellWYRelease: file=$CRSS_DIR/results/KeySlots.rdf
+PowellOperation.Powell10YearWYRelease: file=$CRSS_DIR/results/KeySlots.rdf
+
+LBShort.AnnualMexicoShort: file=$CRSS_DIR/results/KeySlots.rdf
+LBShort.AnnualLBMexicoShort: file=$CRSS_DIR/results/KeySlots.rdf
+
+Shortage.ShortageFlag: file=$CRSS_DIR/results/KeySlots.rdf
+Surplus.SurplusFlag: file=$CRSS_DIR/results/KeySlots.rdf
+Surplus.Flood Control Surplus Flag: file=$CRSS_DIR/results/KeySlots.rdf
+
+TotVal.Powell: file=$CRSS_DIR/results/KeySlots.rdf
+

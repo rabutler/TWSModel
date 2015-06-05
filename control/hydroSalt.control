@@ -1,0 +1,59 @@
+DoloresRiver.Inflow: 
+DoloresRiver.Inflow Salt Concentration: 
+DuchesneAboveStarv.Inflow: 
+DuchesneAboveStarv.Inflow Salt Concentration: 
+GreenRAboveFontenelle.Inflow: 
+GreenRAboveFontenelle.Inflow Salt Concentration: 
+SanRafaelRiver.Inflow: 
+SanRafaelRiver.Inflow Salt Concentration: 
+SJAboveNavajo.Inflow: 
+SJAboveNavajo.Inflow Salt Concentration: 
+UpperColoradoReach.Inflow: 
+UpperColoradoReach.Inflow Salt Concentration: 
+VirginRiver.Inflow: 
+VirginRiver.Inflow Salt Concentration: 
+WhiteRiverAboveWatson.Inflow: 
+WhiteRiverAboveWatson.Inflow Salt Concentration: 
+YampaRiver.Inflow: 
+YampaRiver.Inflow Salt Concentration: 
+MeadFloodControlData.hydrologyIncrement:  
+AboveImperialDamColoradoR:GainsOnColoRAboveImperialDam.Local Inflow: 
+AboveImperialDamColoradoR:GainsOnColoRAboveImperialDam.Local Inflow Salt Concentration: 
+CoRivMeadToMohave:GainsAboveDavis.Local Inflow: 
+CoRivMeadToMohave:GainsAboveDavis.Local Inflow Salt Concentration: 
+CoRivMohaveToHavasu:BillWilliamsRiver.Local Inflow: 
+CoRivMohaveToHavasu:BillWilliamsRiver.Local Inflow Salt Concentration: 
+CoRivMohaveToHavasu:GainsAboveParker.Local Inflow: 
+CoRivMohaveToHavasu:GainsAboveParker.Local Inflow Salt Concentration: 
+CoRivLittleCOToVirgin:GainsAboveGC.Local Inflow: 
+CoRivLittleCOToVirgin:GainsAboveGC.Local Inflow Salt Concentration: 
+LittleColoradoRiver.Inflow: 
+LittleColoradoRiver.Inflow Salt Concentration: 
+PariaRiver.Inflow: 
+PariaRiver.Inflow Salt Concentration: 
+CoRivVirginToMead:GainsAboveHoover.Local Inflow: 
+CoRivVirginToMead:GainsAboveHoover.Local Inflow Salt Concentration: 
+GreenRAboveFlamingGorge:GainsAboveGreendale.Local Inflow: 
+GreenRAboveFlamingGorge:GainsAboveGreendale.Local Inflow Salt Concentration: 
+GreenRAboveGreenRiverWY:GainsAboveGRWY.Local Inflow: 
+GreenRAboveGreenRiverWY:GainsAboveGRWY.Local Inflow Salt Concentration: 
+GreenRWhiteToSanRafael:GainsAboveGreenRiverUT.Local Inflow: 
+GreenRWhiteToSanRafael:GainsAboveGreenRiverUT.Local Inflow Salt Concentration: 
+GunnisonRiverAboveCrystal:GainsAboveCrystal.Local Inflow: 
+GunnisonRiverAboveCrystal:GainsAboveCrystal.Local Inflow Salt Concentration: 
+GunnisonRiverAboveGrandJunction:GainsGunnisonRiverAbvGrandJunction.Local Inflow: 
+GunnisonRiverAboveGrandJunction:GainsGunnisonRiverAbvGrandJunction.Local Inflow Salt Concentration: 
+SanJuanPowell:GainsAboveLeesFerry.Local Inflow: 
+SanJuanPowell:GainsAboveLeesFerry.Local Inflow Salt Concentration: 
+SanJuanTributaries.Inflow: 
+SanJuanTributaries.Inflow Salt Concentration: 
+TaylorAboveBlueMesa:GainsAboveBlueMesa.Local Inflow: 
+TaylorAboveBlueMesa:GainsAboveBlueMesa.Local Inflow Salt Concentration: 
+UpperColoradoAboveCameo:GainsAboveCameo.Local Inflow: 
+UpperColoradoAboveCameo:GainsAboveCameo.Local Inflow Salt Concentration: 
+UpperColoradoCameoToGunnison:GainsAboveCisco.Local Inflow: 
+UpperColoradoCameoToGunnison:GainsAboveCisco.Local Inflow Salt Concentration: 
+LittleSnakeRiver.Inflow: 
+LittleSnakeRiver.Inflow Salt Concentration: 
+TaylorPark.Inflow: 
+TaylorPark.Inflow Salt Concentration: 

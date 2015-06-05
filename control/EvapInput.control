@@ -1,0 +1,13 @@
+Evap.BlueMesaCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.CrystalCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.FlamingGorgeCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.FontenelleCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.HavasuCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.MeadCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.MohaveCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.MorrowPointCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Evap.NavajoCoef: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=NONE scale=1.0 import=resize
+Powell.Average Air Temperature: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=F scale=1.0 import=resize
+Powell.Average Precipitation: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=in/month scale=1.0 import=resize
+Powell.Gross Evaporation Coefficient: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=in/month scale=1.0 import=resize
+Powell.River Evaporation Coefficient: file=$(CRSS_DIR)/dmi/Evap/%tempdir/%o.%s  units=in/month scale=1.0 import=resize
